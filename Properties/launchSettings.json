@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "OpcUaServer": {
+      "commandName": "Project",
+      "commandLineArgs": "/d",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    }
+  }
+}
