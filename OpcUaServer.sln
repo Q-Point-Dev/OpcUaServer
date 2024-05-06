@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpcUaServer", "OpcUaServer\OpcUaServer.csproj", "{F7D2AB2F-38FA-4EC8-B99A-DBD42D67DC58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpcUaServer.Domain", "OpcUaServer.Domain\OpcUaServer.Domain.csproj", "{340F6BED-7616-41C9-86EC-E511B5FD62A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D2AB2F-38FA-4EC8-B99A-DBD42D67DC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D2AB2F-38FA-4EC8-B99A-DBD42D67DC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D2AB2F-38FA-4EC8-B99A-DBD42D67DC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D2AB2F-38FA-4EC8-B99A-DBD42D67DC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340F6BED-7616-41C9-86EC-E511B5FD62A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340F6BED-7616-41C9-86EC-E511B5FD62A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340F6BED-7616-41C9-86EC-E511B5FD62A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340F6BED-7616-41C9-86EC-E511B5FD62A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F17862D-0522-4474-A456-C06D442F0F87}
+	EndGlobalSection
+EndGlobal
